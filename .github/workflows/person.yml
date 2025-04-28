@@ -1,0 +1,13 @@
+person:
+  name: John Doe
+  age: 30
+  married: true
+  children:
+    - name: Anna
+      age: 5
+    - name: Ben
+      age: 3
+  address:
+    street: 123 Main St
+    city: Springfield
+    zip: 12345
